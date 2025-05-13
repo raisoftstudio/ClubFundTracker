@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: club-fund-tracker
+    env: python
+    buildCommand: ""
+    startCommand: "python main.py"

@@ -2,7 +2,13 @@
     {
         "id": 1,
         "username": "admin",
-        "password": "scrypt:32768:8:1$liVxgFOVg9F5fvK0$24465df439d4ace34cf783b11aa47a898e3fa2f91232a6d680376a2265dc22b6800b13cf73fdafdabc19f44d0149423ed3a3d5f59038cacf1510fde033535f63",
+        "password": "scrypt:32768:8:1$5h0UVc4Pk9rmYQYP$c7f2367a46ebca92b10d342e3c480f2004de92631e200bf5d906aec8ac9ebc27295adeb126441b503255a3cc91b5fce9c4a379ec23dd6dc9431a01d9a6c2fe36",
         "is_admin": true
+    },
+    {
+        "id": 2,
+        "username": "Raisul",
+        "password": "scrypt:32768:8:1$1M6oXLWNYDno4hGK$42b75a81264d18a459c494606ec12073487fe858a4510e132fe7ad25c75dbbacd23064ffd3dd3df3f12dbc253eefc85a402144157fd9f229ed17ba92c72379dd",
+        "is_admin": false
     }
 ]
